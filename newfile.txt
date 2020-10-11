@@ -1,0 +1,15 @@
+这是我git练习的文件---------------------
+This practice will help you get comfortable with basic git operations: making changes and publishing them.
+
+We will learn the following git operations:
+
+1.add changes to the staging area
+2.commit changes
+3.push local commits to publish them to GitHub
+4.pull changes from the remote repository
+5.'branch' create a new branch named "branch-1" and push to Github
+
+Other useful commands to see what is going on the git repository:
+
+    status
+    log
