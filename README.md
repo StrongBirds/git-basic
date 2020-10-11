@@ -29,4 +29,7 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+第一行
+第二行
+第三行
 添加了一行----------------------------
